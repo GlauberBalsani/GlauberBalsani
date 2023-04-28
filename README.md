@@ -1,4 +1,4 @@
-### Olá! Me chamo Glauber Balsani 👋, farmacêutico 🧑‍🔬💉💊, cursando Análise e Desenvolvimento de Sistemas , um eterno estudante 👨‍🎓
+### Olá! Me chamo Glauber Balsani 👋 farmacêutico 🧑‍🔬💉💊cursando Análise e Desenvolvimento de Sistemas, um eterno estudante 👨‍🎓
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-balsani-b2800241/)
