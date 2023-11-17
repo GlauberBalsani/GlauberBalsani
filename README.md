@@ -4,7 +4,7 @@ I'm Glauber Balsani, an intern at Vivo, a back-end Java developer, and an enthus
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-balsani-b2800241/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://https://www.dev.to/glauberbalsani)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/glauberbalsani)
 
 
 ![Glauber's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlauberBalsani&show_icons=true&theme=radical)
