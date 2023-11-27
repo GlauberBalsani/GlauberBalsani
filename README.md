@@ -9,7 +9,7 @@ I'm Glauber Balsani, an intern at Vivo, a back-end Java developer, and an enthus
 
 ![Glauber's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlauberBalsani&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,postgres,linux,mysql,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,postgres,linux,mysql,docker&theme=dark)](https://skillicons.dev)
 
 
 
