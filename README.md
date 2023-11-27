@@ -9,14 +9,8 @@ I'm Glauber Balsani, an intern at Vivo, a back-end Java developer, and an enthus
 
 ![Glauber's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlauberBalsani&show_icons=true&theme=radical)
 
+[![My Skills](https://skillicons.dev/icons?i=java,cs,postgres,linux,mysql,docker&theme=dark)](https://skillicons.dev)
 
 
-## Working
-<div style="display: inline_block"><br/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-</div>
+
