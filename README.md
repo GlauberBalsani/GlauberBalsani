@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Glauber Balsani a back-end Java and C# developer, and an enthusiast of history, philosophy, games, and astronomy.
+Eu sou Glauber Balsani um entusiasta de desenvolvimento Back End com as linguagens Java e C#.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-balsani-b2800241/)
