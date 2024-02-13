@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Eu sou Glauber Balsani desenvolvedor ack end com as linguagens Java e C#.
+Eu sou Glauber Balsani desenvolvedor backend com as linguagens Java e C#.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-balsani-b2800241/)
