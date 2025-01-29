@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
-Eu sou Glauber Balsani desenvolvedor backend com as linguagens Java e C#.
+Prazer em ter você aaqui
+_________
+Me chamo Glauber Balsani, desenvolvedor Java, formado em Análise e Desenvolvimento de Sistemas pela Universidade Municipal de São Caetano do Sul.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-balsani-b2800241/)
