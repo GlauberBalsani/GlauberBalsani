@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Prazer em ter você aaqui
+Prazer em ter você aqui
 _________
 Me chamo Glauber Balsani, desenvolvedor Java, formado em Análise e Desenvolvimento de Sistemas pela Universidade Municipal de São Caetano do Sul.
 
